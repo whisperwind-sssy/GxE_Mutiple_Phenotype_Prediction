@@ -14,10 +14,6 @@
 
 PyTorch-based multitask interaction model with optional GenNet topology (SNP→Gene) for **genotype × environment × multiple phenotypes**. Canonical entry: `main_gennet.py`.
 
-- Multitask traits: `yield, silking, anthesis, plants_stand, grain_moisture, anthesis_GDD, silking_GDD`
-- Optional GenNet topology via `--use_gennet` + `--topology_file`
-- Task-relationship learning with visualized weights/relationships
-
 ---
 
 ## Environments
